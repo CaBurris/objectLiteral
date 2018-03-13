@@ -19,4 +19,4 @@ person.age += 1;
 message += '<p>My age is now ' + person.age + '</p>';
 message += '<p>I have ' + person.skills.length + ' skills: ' ;
 message += person.skills.join(', ') + '</p>';
-print(message);
+print(message); 
